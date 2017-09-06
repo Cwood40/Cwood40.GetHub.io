@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/Cwood40/Cwood40.GetHub.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### About
+
+My name is Christopher Wood and I am currently a student at NorthWest Vista Collage. I am 25 years old and I am currently studying to be a game designer. My ultimate goal is to become a lead designer at a AAA company.
+
+### Contact me
+
+E-mail: cwood40@student.alamo.edu
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

@@ -12,4 +12,4 @@ E-mail: cwood40@student.alamo.edu
 
 ### Projects
 
-Check out my different projects [Portfolio](index)
+Check out my different projects [Portfolio](Portfolio.md)

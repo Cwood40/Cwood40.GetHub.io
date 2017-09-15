@@ -1,8 +1,8 @@
 # Projects
 
-## Hello_World
+## Project 1
 
-https://cwood40.github.io/Hello_World/
+[Hello_World](https://cwood40.github.io/Hello_World/)
 
 
 

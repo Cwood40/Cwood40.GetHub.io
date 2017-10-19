@@ -42,48 +42,55 @@ https://www.gamasutra.com/view/feature/130127/design_document_play_with_fire.php
 
 ##### Test Description
 
-Briefly describe what is being tested and any inputs needed for testing
+The controls, power-ups, user interface, and level complexity are all being tested. Control input will be needed for this test.
 
 ##### Test Team
 
-Who is on the team and what is their role/assignment
+I will be doing all the testing and reporting on this project.
 
 ##### Milestones
 
-Testing Locations, events, test phases and dates of testing
+Testing will be done at my home.
+10/19/2017 Testing begins
+10/20/2017 Control Testing ends
+10/21/2017 Power-up Testing ends
+10/22/2017 UI Testing ends
+10/23/2017 Level Testing ends
 
 ##### Budgets
 
-Funds allocated to testing by task
+There will be no budget for this testing.
 
 ##### Testing
 
 Requirements
-  Resource requirements, equipment, software/hardware, tester with special skill set
+  A computer and time are the only requirements for this testing.
 Testing Materials/Test Tools
-  Documentation you will use or produce or testing tools used
+  I will use the game design document for the basis of this testing. I will produce a test plan document for this project.
 Test Training
-  Personnel training, types of training/training staff- could include acceptance testiong or playtesting
+  No training needed for this project.
   
 ### Specifications and Evaluations
 
 #####Requirement Specifications
 
 Business Rules/Functions
-  List any business requirements
+  The game is enjoyable.
 Software/Game Functions
-  List any software requirements
+  All functions of the game are working correctly.
 Test/Function Relationships
-  Match individual test or test suites to requirements (table)
-  Beginning stages of developing your test suites
+  1. Controls will be tested by repeatedly pressing the controls to ensure they work.
+  2. Power-ups will be tested by gainning each power-up and testing to ensure it has the desired effect.
+  3. User interface will be tested by ensuring that each functions is simple, straight-forward and works correctly.
+  4. Levels will be tested by attempting various methods for completing each one.
 Test Progression
-  Desbribe how progession is made from one test to another
+  Once one function test is completed, we will move on to the next one.
   
 ##### Methods and Constraints
 
 Test Methodology
-  Describe testing strategy/types of testing or any other methodology
+  The main type of testing used for this project will be playability testing, to ensure that users will be able to play and enjoy this game.
 Extent of Testing
-  Full or partial testing and explanation
+  Partial Testing will be used to test various function of the game, as opposed to the game as a whole.
 Constraints
-  Describe any test condition constraints such as interfaces or data
+  The largest constraint on this test is not having an available copy of the game to test.

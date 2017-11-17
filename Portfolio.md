@@ -7,10 +7,10 @@
 
 [Mock_Test_Plan](https://github.com/Cwood40/Cwood40.GitHub.io/blob/master/Fireball.md)
 
-[Faster_Than_Light](https://github.com/Cwood40/Cwood40.GitHub.io/blob/master/Faster_Than_Light)
+[Faster_Than_Light](https://github.com/Cwood40/Cwood40.GitHub.io/blob/master/Faster_Than_Light.md)
 
-[Test_Case_Assignment](https://github.com/Cwood40/Cwood40.GitHub.io/blob/master/Test_Case_Assignment)
+[Test_Case_Assignment](https://github.com/Cwood40/Cwood40.GitHub.io/blob/master/Test_Case_Assignment.md)
 
-[Phantasy_Star_Universe](https://github.com/Cwood40/Cwood40.GitHub.io/blob/master/Phantasy_Star_Universe)
+[Phantasy_Star_Universe](https://github.com/Cwood40/Cwood40.GitHub.io/blob/master/Phantasy_Star_Universe.md)
 
 Return [home](index)

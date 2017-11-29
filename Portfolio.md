@@ -15,4 +15,8 @@
 
 [Maze World 3D](Game_Testing/Maze_World_3D.md)
 
+[Banjo-Kazooie](Game_Testing/Banjo-Kazooie.md)
+
+[Encanted Arms](Game_Testing/Enchanted_Arms.md)
+
 Return [home](index)

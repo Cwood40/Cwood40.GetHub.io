@@ -59,4 +59,4 @@ Overall this game is very intertaining.  There are many different strategies you
 different as they are procedurally generated.  After defeating the game with one ship you can try again with a different ship or
 a different layout of the same ship or simply on a harder difficulty.  Overall this is a very enjoyable game.
 
-[Back](Portfolio.md)
+[Back](../Portfolio.md)

@@ -3,7 +3,7 @@
 
 [Hello World](https://cwood40.github.io/Hello_World/)
 
-[Dungeon Defenders 2](..//Dungeon_Defender_2.md)
+[Dungeon Defenders 2](../Dungeon_Defender_2.md)
 
 [Mock Test Plan](../Fireball.md)
 
@@ -13,6 +13,6 @@
 
 [Phantasy Star Universe](../Phantasy_Star_Universe.md)
 
-[Maze World 3D](../Game Testing/Maze_World_3D.md)
+[Maze World 3D](../Maze_World_3D.md)
 
 Return [home](index)

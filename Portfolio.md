@@ -7,7 +7,7 @@
 
 [Mock_Test_Plan](Fireball.md)
 
-[Faster_Than_Light](Faster_Than_Light.md
+[Faster_Than_Light](Faster_Than_Light.md)
 
 [Test_Case_Assignment](Test_Case_Assignment.md)
 

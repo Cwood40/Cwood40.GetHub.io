@@ -3,7 +3,7 @@
 
 [Hello World](https://cwood40.github.io/Hello_World/)
 
-[Dungeon Defenders 2](../Dungeon_Defender_2.md)
+[Dungeon Defenders 2](Game Testing/Dungeon_Defender_2.md)
 
 [Mock Test Plan](../Fireball.md)
 

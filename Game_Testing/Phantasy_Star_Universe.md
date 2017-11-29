@@ -69,4 +69,4 @@ well laid out and very easy to follow. The mastery of this game comes more from 
 else, however there is an advantage to learning the strategies to fight the bosses as it will help greatly on the 
 harder difficulties.  Overall and excellent game.
 
-[Back](Portfolio.md)
+[Back](../Portfolio.md)

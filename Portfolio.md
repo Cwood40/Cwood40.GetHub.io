@@ -3,16 +3,16 @@
 
 [Hello World](https://cwood40.github.io/Hello_World/)
 
-[Dungeon Defenders 2](Dungeon_Defender_2.md)
+[Dungeon Defenders 2](../ Dungeon_Defender_2.md)
 
-[Mock Test Plan](Fireball.md)
+[Mock Test Plan](../ Fireball.md)
 
-[Faster Than Light](Faster_Than_Light.md)
+[Faster Than Light](../ Faster_Than_Light.md)
 
-[Test Case Assignment](Test_Case_Assignment.md)
+[Test Case Assignment](../ Test_Case_Assignment.md)
 
-[Phantasy Star Universe](Phantasy_Star_Universe.md)
+[Phantasy Star Universe](../ Phantasy_Star_Universe.md)
 
-[Maze World 3D](Maze_World_3D.md)
+[Maze World 3D](../ Maze_World_3D.md)
 
 Return [home](index)

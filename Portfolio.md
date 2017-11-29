@@ -19,4 +19,6 @@
 
 [Encanted Arms](Game_Testing/Enchanted_Arms.md)
 
+[Warface](Game_Testing/Warface.md)
+
 Return [home](index)

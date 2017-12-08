@@ -21,4 +21,6 @@
 
 [Warface](Game_Testing/Warface.md)
 
+[Candy Crush](Game_Testing/Candy_Crush.md)
+
 Return [home](index)

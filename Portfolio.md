@@ -1,5 +1,7 @@
 # Projects
 
+## Game Testing
+
 
 [Hello World](https://cwood40.github.io/Hello_World/)
 
@@ -22,5 +24,7 @@
 [Warface](Game_Testing/Warface.md)
 
 [Candy Crush](Game_Testing/Candy_Crush.md)
+
+## 3D Modeling & Rendering
 
 Return [home](index)
